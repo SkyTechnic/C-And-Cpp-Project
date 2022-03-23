@@ -24,6 +24,7 @@ int main()
    printf("八进制值为 %o \n", no);
    printf("十六进制值为 %x \n", no);
    printf("整数为 %-5d\n" , sum(no));
-
+   // scanf();
+   printf("Hello World");
    return 0;
-}
+} 
